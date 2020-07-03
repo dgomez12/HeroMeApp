@@ -13,4 +13,4 @@ Simple app that lets you decide how you gained your powers and then lets you pic
 
 ## Demo
 
-(Demo/HeroMeGif.gif)
+![Demo](Demo/HeroMeGif.gif)
